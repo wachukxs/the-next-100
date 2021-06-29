@@ -1,0 +1,1 @@
+remove the pop up js functionality ... oh, it's a modal, and we're commenting it out already
